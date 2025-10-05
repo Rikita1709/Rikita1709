@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ My Current Stack & Focus
+
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![](https://img.shields.io/badge/Data%20Structures-194D33?style=for-the-badge&logo=react&logoColor=white) 
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+---
+
+### 🔥 My GitHub Stats
+
+[![Rikita1709's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikita1709&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
