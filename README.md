@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rikita1709&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rikita1709&show_icons=true&theme=tokyonight)
