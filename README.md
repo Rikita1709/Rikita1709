@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 My GitHub Stats
-
-[![Rikita1709's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikita1709&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rikita1709&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
